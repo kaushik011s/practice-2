@@ -1,4 +1,4 @@
-def is_palindrome(s):
+def is not_palindrome(s):
     # Remove spaces and convert to lowercase
     s = s.replace(" ", "").lower()
     
